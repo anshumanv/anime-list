@@ -1,6 +1,6 @@
 # anime_list
 
-<h4>Below follows the list finished animes</h4>
+<h4>Below follows the list of finished animes</h4>
 <br>
 
 <ol>
