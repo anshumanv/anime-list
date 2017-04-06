@@ -5,6 +5,7 @@
 
 <ol>
 	<li><a href = "https://myanimelist.net/anime/11111/Another">Another</a></li>
+	<li><a href = "https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu_TV">Ansatsu Kyoushitsu</a></li>
 	<li><a href = "https://myanimelist.net/anime/2789/B-Densetsu_Battle_Bedaman">Battle B-Daman</a></li>
 	<li><a href = "https://myanimelist.net/anime/2156/Bakugan_Battle_Brawlers">Bakugan Battle Brawlers</a></li>
 	<li><a href = "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia">Boku no Hero Academia</a></li>
