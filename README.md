@@ -8,6 +8,7 @@
 	<li><a href = "https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu_TV">Ansatsu Kyoushitsu</a></li>
 	<li><a href = "https://myanimelist.net/anime/2789/B-Densetsu_Battle_Bedaman">Battle B-Daman</a></li>
 	<li><a href = "https://myanimelist.net/anime/2156/Bakugan_Battle_Brawlers">Bakugan Battle Brawlers</a></li>
+	<li><a href = "https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi">Boku dake ga Inai Machi (ERASED)</a></li>
 	<li><a href = "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia">Boku no Hero Academia</a></li>
 	<li><a href = "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade">Beyblade (Original TV Series)</a></li>
 	<li><a href = "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch">Code Geass</a></li>
