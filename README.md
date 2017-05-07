@@ -24,6 +24,7 @@
 	<li><a href = "https://myanimelist.net/anime/5231/Inazuma_Eleven">Inazuma Eleven</a></li>
 	<li><a href = "https://myanimelist.net/anime/14467/K">K</a></li>
 	<li><a href = "https://myanimelist.net/anime/32281/Kimi_no_Na_wa">Kimi no Na wa.</a></li>
+	<li><a href = "https://myanimelist.net/anime/11771/Kuroko_no_Basket">Kuroko no Basuke</a></li>
 	<li><a href = "https://myanimelist.net/anime/31845/Masou_Gakuen_HxH">Masou Gakuen HXH</a></li>
 	<li><a href = "https://myanimelist.net/anime/20/Naruto">Naruto</a></li>
 	<li><a href = "https://myanimelist.net/anime/1735/Naruto__Shippuuden">Naruto Shippuden</a></li>
