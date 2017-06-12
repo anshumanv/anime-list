@@ -12,6 +12,7 @@
 	<li><a href = "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia">Boku no Hero Academia</a></li>
 	<li><a href = "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade">Beyblade (Original TV Series)</a></li>
 	<li><a href = "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch">Code Geass</a></li>
+	<li><a href = "https://myanimelist.net/anime/16592/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei_The_Animation">Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation</a></li>
 	<li><a href = "https://myanimelist.net/anime/1535/Death_Note">Death Note</a></li>
 	<li><a href = "https://myanimelist.net/anime/813/Dragon_Ball_Z">Dragon Ball Z</a></li>
 	<li><a href = "https://myanimelist.net/anime/6702/Fairy_Tail">Fairy Tail</a></li>
