@@ -10,6 +10,7 @@
 	<li><a href = "https://myanimelist.net/anime/2156/Bakugan_Battle_Brawlers">Bakugan Battle Brawlers</a></li>
 	<li><a href = "https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi">Boku dake ga Inai Machi (ERASED)</a></li>
 	<li><a href = "https://myanimelist.net/anime/31964/Boku_no_Hero_Academia">Boku no Hero Academia</a></li>
+	<li><a href = "https://myanimelist.net/anime/31478/Bungou_Stray_Dogs">Bungou Stray Dogs</a></li>
 	<li><a href = "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade">Beyblade (Original TV Series)</a></li>
 	<li><a href = "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch">Code Geass</a></li>
 	<li><a href = "https://myanimelist.net/anime/16592/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei_The_Animation">Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation</a></li>
