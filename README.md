@@ -7,6 +7,7 @@
 	<li><a href = "https://myanimelist.net/anime/11111/Another">Another</a></li>
 	<li><a href = "https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu_TV">Ansatsu Kyoushitsu</a></li>
 	<li><a href = "https://myanimelist.net/anime/9919/Ao_no_Exorcist">Ao no Exorcist</a></li>
+	<li><a href = "https://myanimelist.net/anime/2251/Baccano">Baccano!</a></li>
 	<li><a href = "https://myanimelist.net/anime/2789/B-Densetsu_Battle_Bedaman">Battle B-Daman</a></li>
 	<li><a href = "https://myanimelist.net/anime/2156/Bakugan_Battle_Brawlers">Bakugan Battle Brawlers</a></li>
 	<li><a href = "https://myanimelist.net/anime/31043/Boku_dake_ga_Inai_Machi">Boku dake ga Inai Machi (ERASED)</a></li>
