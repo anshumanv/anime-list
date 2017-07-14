@@ -22,6 +22,7 @@
 	<li><a href = "https://myanimelist.net/anime/22043/Fairy_Tail_2014">Fairy Tail(2014)</a></li>
 	<li><a href = "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Full Metal Alchemist</a></li>
 	<li><a href = "https://myanimelist.net/anime/17895/Golden_Time">Golden Time</a></li>
+	<li><a href = "https://myanimelist.net/anime/245/Great_Teacher_Onizuka">Great Teacher Onizuka</li>
 	<li><a href = "https://myanimelist.net/anime/20583/Haikyuu">Haikyuu!!</a></li>
 	<li><a href = "https://myanimelist.net/anime/15809/Hataraku_Maou-sama">Hataraku Maou-sama!</a></li>	
 	<li><a href = "https://myanimelist.net/anime/11617/High_School_DxD">High School DXD</a></li>
