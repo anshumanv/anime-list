@@ -48,6 +48,7 @@
 	<li><a href = "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin">Shingeki no Kyojin</a></li>
 	<li><a href = "https://myanimelist.net/anime/9253/Steins_Gate">Steins; Gate</a></li>
 	<li><a href = "https://myanimelist.net/anime/22319/Tokyo_Ghoul">Tokyo Ghoul</a></li>
+	<li><a href = "https://myanimelist.net/anime/34902/Tsurezure_Children">Tsurezure Children</a></li>
 <ol>
 
 <br><hr>
