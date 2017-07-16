@@ -1,4 +1,4 @@
-# anime_list
+# anime-list
 
 <h4>Below follows the list of finished animes</h4>
 <br>
