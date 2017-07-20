@@ -5,6 +5,7 @@
 
 <ol>
 	<li><a href = "https://myanimelist.net/anime/11111/Another">Another</a></li>
+	<li><a href = "https://myanimelist.net/.../Ane_Log__Moyako_Neesan_no_Tomaranai_Monologue">Ane Log</a></li>
 	<li><a href = "https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu_TV">Ansatsu Kyoushitsu</a></li>
 	<li><a href = "https://myanimelist.net/anime/9919/Ao_no_Exorcist">Ao no Exorcist</a></li>
 	<li><a href = "https://myanimelist.net/anime/2251/Baccano">Baccano!</a></li>
