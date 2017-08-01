@@ -26,6 +26,7 @@
 	<li><a href = "https://myanimelist.net/anime/17895/Golden_Time">Golden Time</a></li>
 	<li><a href = "https://myanimelist.net/anime/245/Great_Teacher_Onizuka">Great Teacher Onizuka</li>
 	<li><a href = "https://myanimelist.net/anime/20583/Haikyuu">Haikyuu!!</a></li>
+	<li><a href = "https://myanimelist.net/anime/34403/Hajimete_no_Gal">Hajimete no Gal</a></li>
 	<li><a href = "https://myanimelist.net/anime/15809/Hataraku_Maou-sama">Hataraku Maou-sama!</a></li>	
 	<li><a href = "https://myanimelist.net/anime/11617/High_School_DxD">High School DXD</a></li>
 	<li><a href = "https://myanimelist.net/anime/28825/Himouto_Umaru-chan">Himouto! Umaru-chan</a></li>
