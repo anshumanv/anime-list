@@ -38,6 +38,7 @@
 	<li><a href = "https://myanimelist.net/anime/11771/Kuroko_no_Basket">Kuroko no Basuke</a></li>
 	<li><a href = "https://myanimelist.net/anime/14513/Magi__The_Labyrinth_of_Magic">Magi</a></li>
 	<li><a href = "https://myanimelist.net/anime/31845/Masou_Gakuen_HxH">Masou Gakuen HXH</a></li>
+	<li><a href = "https://myanimelist.net/anime/10620/Mirai_Nikki_TV">Mirai Nikki</a></li>
 	<li><a href = "https://myanimelist.net/anime/20/Naruto">Naruto</a></li>
 	<li><a href = "https://myanimelist.net/anime/1735/Naruto__Shippuuden">Naruto Shippuden</a></li>
 	<li><a href = "https://myanimelist.net/anime/23755/Nanatsu_no_Taizai">Nanatsu no Taizai</a></li>
