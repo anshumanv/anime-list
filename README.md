@@ -54,6 +54,7 @@
 	<li><a href = "https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso">Shigatsu wa Kimi no Uso</a></li>
 	<li><a href = "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin">Shingeki no Kyojin</a></li>
 	<li><a href = "https://myanimelist.net/anime/9253/Steins_Gate">Steins; Gate</a></li>
+	<li><a href = "https://myanimelist.net/anime/4654/Toaru_Majutsu_no_Index">Toaru Majutsu no Index</a></li>
 	<li><a href = "https://myanimelist.net/anime/22319/Tokyo_Ghoul">Tokyo Ghoul</a></li>
 	<li><a href = "https://myanimelist.net/anime/18139/Tonari_no_Seki-kun">Tonari no Seki-kun</li>
 	<li><a href = "https://myanimelist.net/anime/34902/Tsurezure_Children">Tsurezure Children</a></li>
