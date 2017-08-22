@@ -25,7 +25,7 @@
 	<li><a href = "https://myanimelist.net/anime/22043/Fairy_Tail_2014">Fairy Tail(2014)</a></li>
 	<li><a href = "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Full Metal Alchemist</a></li>
 	<li><a href = "https://myanimelist.net/anime/17895/Golden_Time">Golden Time</a></li>
-	<li><a href = "https://myanimelist.net/anime/245/Great_Teacher_Onizuka">Great Teacher Onizuka</li>
+	<li><a href = "https://myanimelist.net/anime/245/Great_Teacher_Onizuka">Great Teacher Onizuka</a></li>
 	<li><a href = "https://myanimelist.net/anime/20583/Haikyuu">Haikyuu!!</a></li>
 	<li><a href = "https://myanimelist.net/anime/34403/Hajimete_no_Gal">Hajimete no Gal</a></li>
 	<li><a href = "https://myanimelist.net/anime/15809/Hataraku_Maou-sama">Hataraku Maou-sama!</a></li>	
@@ -56,7 +56,7 @@
 	<li><a href = "https://myanimelist.net/anime/9253/Steins_Gate">Steins; Gate</a></li>
 	<li><a href = "https://myanimelist.net/anime/4654/Toaru_Majutsu_no_Index">Toaru Majutsu no Index</a></li>
 	<li><a href = "https://myanimelist.net/anime/22319/Tokyo_Ghoul">Tokyo Ghoul</a></li>
-	<li><a href = "https://myanimelist.net/anime/18139/Tonari_no_Seki-kun">Tonari no Seki-kun</li>
+	<li><a href = "https://myanimelist.net/anime/18139/Tonari_no_Seki-kun">Tonari no Seki-kun</a></li>
 	<li><a href = "https://myanimelist.net/anime/34902/Tsurezure_Children">Tsurezure Children</a></li>
 <ol>
 
