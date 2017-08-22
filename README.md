@@ -59,6 +59,7 @@
 	<li><a href = "https://myanimelist.net/anime/22319/Tokyo_Ghoul">Tokyo Ghoul</a></li>
 	<li><a href = "https://myanimelist.net/anime/18139/Tonari_no_Seki-kun">Tonari no Seki-kun</a></li>
 	<li><a href = "https://myanimelist.net/anime/34902/Tsurezure_Children">Tsurezure Children</a></li>
+	<li><a href = "https://myanimelist.net/anime/33589/ViVid_Strike">ViVid Strike!</a></li>
 <ol>
 
 <br><hr>
