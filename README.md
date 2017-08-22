@@ -24,6 +24,7 @@
 	<li><a href = "https://myanimelist.net/anime/6702/Fairy_Tail">Fairy Tail</a></li>
 	<li><a href = "https://myanimelist.net/anime/22043/Fairy_Tail_2014">Fairy Tail(2014)</a></li>
 	<li><a href = "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Full Metal Alchemist</a></li>
+	<li><a href = "https://myanimelist.net/anime/34280/Gamers">Gamers!</a></li>
 	<li><a href = "https://myanimelist.net/anime/17895/Golden_Time">Golden Time</a></li>
 	<li><a href = "https://myanimelist.net/anime/245/Great_Teacher_Onizuka">Great Teacher Onizuka</a></li>
 	<li><a href = "https://myanimelist.net/anime/20583/Haikyuu">Haikyuu!!</a></li>
