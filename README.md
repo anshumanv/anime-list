@@ -3,7 +3,8 @@
 <h4>Below follows the list of completed / ongoing animes</h4>
 <br>
 
-<ol>
+<ol>	
+	<li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Aho Girl</a></li>
 	<li><a href = "https://myanimelist.net/anime/22199/Akame_ga_Kill">Akame ga Kill!</a></li>
 	<li><a href = "https://myanimelist.net/anime/11111/Another">Another</a></li>
 	<li><a href = "https://myanimelist.net/anime/24531/Ane_Log__Moyako_Neesan_no_Tomaranai_Monologue">Ane Log</a></li>
