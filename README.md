@@ -53,6 +53,7 @@
 	<li><a href = "https://myanimelist.net/anime/18897/Nisekoi">Nisekoi</a></li>
 	<li><a href = "https://myanimelist.net/anime/20507/Noragami">Noragami</a></li>
 	<li><a href = "https://myanimelist.net/anime/19815/No_Game_No_Life">No Game No Life</a></li>
+	<li><a href = "https://myanimelist.net/anime/21/One_Piece">One Piece</a></li>
 	<li><a href = "https://myanimelist.net/anime/30276/One_Punch_Man">One Punch Man</a></li>
 	<li><a href = "https://myanimelist.net/anime/527/Pokemon">Pokemon</a></li>
 	<li><a href = "https://myanimelist.net/anime/13601/Psycho-Pass">Psycho Pass</a></li>
