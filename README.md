@@ -45,7 +45,6 @@
 	<li><a href = "https://myanimelist.net/anime/28851/Koe_no_Katachi">Koe No Katachi</a></li>
 	<li><a href = "https://myanimelist.net/anime/11771/Kuroko_no_Basket">Kuroko no Basuke</a></li>
 	<li><a href = "https://myanimelist.net/anime/14513/Magi__The_Labyrinth_of_Magic">Magi</a></li>
-	<li><a href = "https://myanimelist.net/anime/31845/Masou_Gakuen_HxH">Masou Gakuen HXH</a></li>
 	<li><a href = "https://myanimelist.net/anime/10620/Mirai_Nikki_TV">Mirai Nikki</a></li>
 	<li><a href = "https://myanimelist.net/anime/20/Naruto">Naruto</a></li>
 	<li><a href = "https://myanimelist.net/anime/1735/Naruto__Shippuuden">Naruto Shippuden</a></li>
@@ -61,6 +60,7 @@
 	<li><a href = "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin">Shingeki no Kyojin</a></li>
 	<li><a href = "https://myanimelist.net/anime/28171/Shokugeki_no_Souma">Food Wars!: Shokugeki no Soma</a></li>
 	<li><a href = "https://myanimelist.net/anime/9253/Steins_Gate">Steins; Gate</a></li>
+	<li><a href = "https://myanimelist.net/anime/11757/Sword_Art_Online">Sword Art Online</a></li>
 	<li><a href = "https://myanimelist.net/anime/4654/Toaru_Majutsu_no_Index">Toaru Majutsu no Index</a></li>
 	<li><a href = "https://myanimelist.net/anime/22319/Tokyo_Ghoul">Tokyo Ghoul</a></li>
 	<li><a href = "https://myanimelist.net/anime/18139/Tonari_no_Seki-kun">Tonari no Seki-kun</a></li>
