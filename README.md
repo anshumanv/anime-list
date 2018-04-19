@@ -42,6 +42,7 @@
 	<li><a href = "https://myanimelist.net/anime/32281/Kimi_no_Na_wa">Kimi no Na wa.</a></li>
 	<li><a href = "https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon">Kobayashi-san Chi no Maid Dragon
 </a></li>
+	<li><a href = "https://myanimelist.net/anime/32182/Mob_Psycho_100">Mob Psycho 100</a></li>
 	<li><a href = "https://myanimelist.net/anime/28851/Koe_no_Katachi">Koe No Katachi</a></li>
 	<li><a href = "https://myanimelist.net/anime/11771/Kuroko_no_Basket">Kuroko no Basuke</a></li>
 	<li><a href = "https://myanimelist.net/anime/14513/Magi__The_Labyrinth_of_Magic">Magi</a></li>
