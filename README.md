@@ -70,6 +70,7 @@
 	<li><a href = "https://myanimelist.net/anime/18139/Tonari_no_Seki-kun">Tonari no Seki-kun</a></li>
 	<li><a href = "https://myanimelist.net/anime/34902/Tsurezure_Children">Tsurezure Children</a></li>
 	<li><a href = "https://myanimelist.net/anime/33589/ViVid_Strike">ViVid Strike!</a></li>
+	<li><a href = "https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii">Wotaku ni Koi wa Muzukashii</a></li>
 	<li><a href = "https://myanimelist.net/anime/28677/Yamada-kun_to_7-nin_no_Majo_TV">Yamada-kun to 7-nin no Majo (TV)
 </a></li>
 <ol>
