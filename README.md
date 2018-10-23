@@ -60,6 +60,7 @@
 	<li><a href = "https://myanimelist.net/anime/36023/Persona_5_the_Animation">Persona 5 the Animation</a></li>
 	<li><a href = "https://myanimelist.net/anime/527/Pokemon">Pokemon</a></li>
 	<li><a href = "https://myanimelist.net/anime/13601/Psycho-Pass">Psycho Pass</a></li>
+	<li><a href = "https://myanimelist.net/anime/30015/ReLIFE">ReLIFE</a></li>
 	<li><a href = "https://myanimelist.net/anime/205/Samurai_Champloo">Samurai Champloo</a></li>
 	<li><a href = "https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso">Shigatsu wa Kimi no Uso</a></li>
 	<li><a href = "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin">Shingeki no Kyojin</a></li>
