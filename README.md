@@ -58,6 +58,7 @@
 	<li><a href = "https://myanimelist.net/anime/5040/One_Outs">One Outs</a></li>
 	<li><a href = "https://myanimelist.net/anime/21/One_Piece">One Piece</a></li>
 	<li><a href = "https://myanimelist.net/anime/30276/One_Punch_Man">One Punch Man</a></li>
+	<li><a href = "https://myanimelist.net/anime/32729/Orange">Orange</a></li>
 	<li><a href = "https://myanimelist.net/anime/36023/Persona_5_the_Animation">Persona 5 the Animation</a></li>
 	<li><a href = "https://myanimelist.net/anime/527/Pokemon">Pokemon</a></li>
 	<li><a href = "https://myanimelist.net/anime/13601/Psycho-Pass">Psycho Pass</a></li>
