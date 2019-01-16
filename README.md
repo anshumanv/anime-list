@@ -60,6 +60,7 @@
 	<li><a href = "https://myanimelist.net/anime/30276/One_Punch_Man">One Punch Man</a></li>
 	<li><a href = "https://myanimelist.net/anime/32729/Orange">Orange</a></li>
 	<li><a href = "https://myanimelist.net/anime/36023/Persona_5_the_Animation">Persona 5 the Animation</a></li>
+	<li><a href = "https://myanimelist.net/anime/22135/Ping_Pong_the_Animation">Ping Pong the Animation</a></li>
 	<li><a href = "https://myanimelist.net/anime/527/Pokemon">Pokemon</a></li>
 	<li><a href = "https://myanimelist.net/anime/13601/Psycho-Pass">Psycho Pass</a></li>
 	<li><a href = "https://myanimelist.net/anime/30015/ReLIFE">ReLIFE</a></li>
