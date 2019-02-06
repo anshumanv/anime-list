@@ -9,6 +9,7 @@
 	<li><a href = "https://myanimelist.net/anime/11111/Another">Another</a></li>
 	<li><a href = "https://myanimelist.net/anime/24531/Ane_Log__Moyako_Neesan_no_Tomaranai_Monologue">Ane Log</a></li>
 	<li><a href = "https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu_TV">Ansatsu Kyoushitsu</a></li>
+	<li><a href = "https://myanimelist.net/anime/21995/Ao_Haru_Ride">Ao Haru Ride</a></li>
 	<li><a href = "https://myanimelist.net/anime/9919/Ao_no_Exorcist">Ao no Exorcist</a></li>
 	<li><a href = "https://myanimelist.net/anime/2251/Baccano">Baccano!</a></li>
 	<li><a href = "https://myanimelist.net/anime/2789/B-Densetsu_Battle_Bedaman">Battle B-Daman</a></li>
