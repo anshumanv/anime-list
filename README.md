@@ -6,8 +6,9 @@
 <ol>	
 	<li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Aho Girl</a></li>
 	<li><a href = "https://myanimelist.net/anime/22199/Akame_ga_Kill">Akame ga Kill!</a></li>
-	<li><a href = "https://myanimelist.net/anime/11111/Another">Another</a></li>
 	<li><a href = "https://myanimelist.net/anime/24531/Ane_Log__Moyako_Neesan_no_Tomaranai_Monologue">Ane Log</a></li>
+	<li><a href = "https://myanimelist.net/anime/6547/Angel_Beats">Angel Beats!</a></li>
+	<li><a href = "https://myanimelist.net/anime/11111/Another">Another</a></li>
 	<li><a href = "https://myanimelist.net/anime/24833/Ansatsu_Kyoushitsu_TV">Ansatsu Kyoushitsu</a></li>
 	<li><a href = "https://myanimelist.net/anime/21995/Ao_Haru_Ride">Ao Haru Ride</a></li>
 	<li><a href = "https://myanimelist.net/anime/9919/Ao_no_Exorcist">Ao no Exorcist</a></li>
