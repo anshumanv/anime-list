@@ -49,6 +49,7 @@
 </a></li>
 	<li><a href = "https://myanimelist.net/anime/32182/Mob_Psycho_100">Mob Psycho 100</a></li>
 	<li><a href = "https://myanimelist.net/anime/11079/Kill_Me_Baby">Kill Me Baby</a></li>
+	<li><a href = "https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu">Kiseijuu: Sei no Kakuritsu</a></li>
 	<li><a href = "https://myanimelist.net/anime/28851/Koe_no_Katachi">Koe No Katachi</a></li>
 	<li><a href = "https://myanimelist.net/anime/11771/Kuroko_no_Basket">Kuroko no Basuke</a></li>
 	<li><a href = "https://myanimelist.net/anime/14513/Magi__The_Labyrinth_of_Magic">Magi</a></li>
