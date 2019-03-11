@@ -52,6 +52,7 @@
 	<li><a href = "https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu">Kiseijuu: Sei no Kakuritsu</a></li>
 	<li><a href = "https://myanimelist.net/anime/28851/Koe_no_Katachi">Koe No Katachi</a></li>
 	<li><a href = "https://myanimelist.net/anime/11771/Kuroko_no_Basket">Kuroko no Basuke</a></li>
+	<li><a href = "https://myanimelist.net/anime/34599/Made_in_Abyss">Made in Abyss</a></li>
 	<li><a href = "https://myanimelist.net/anime/14513/Magi__The_Labyrinth_of_Magic">Magi</a></li>
 	<li><a href = "https://myanimelist.net/anime/10620/Mirai_Nikki_TV">Mirai Nikki</a></li>
 	<li><a href = "https://myanimelist.net/anime/20/Naruto">Naruto</a></li>
