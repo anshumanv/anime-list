@@ -45,8 +45,7 @@
 	<li><a href = "https://myanimelist.net/anime/34933/Kakegurui">Kakegurui</a></li>
 	<li><a href = "https://myanimelist.net/anime/34825/Keppeki_Danshi_Aoyama-kun">Keppeki Danshi! Aoyama-kun</a></li>
 	<li><a href = "https://myanimelist.net/anime/32281/Kimi_no_Na_wa">Kimi no Na wa.</a></li>
-	<li><a href = "https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon">Kobayashi-san Chi no Maid Dragon
-</a></li>
+	<li><a href = "https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon">Kobayashi-san Chi no Maid Dragon</a></li>
 	<li><a href = "https://myanimelist.net/anime/32182/Mob_Psycho_100">Mob Psycho 100</a></li>
 	<li><a href = "https://myanimelist.net/anime/11079/Kill_Me_Baby">Kill Me Baby</a></li>
 	<li><a href = "https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu">Kiseijuu: Sei no Kakuritsu</a></li>
@@ -72,10 +71,11 @@
 	<li><a href = "https://myanimelist.net/anime/13601/Psycho-Pass">Psycho Pass</a></li>
 	<li><a href = "https://myanimelist.net/anime/30015/ReLIFE">ReLIFE</a></li>
 	<li><a href = "https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu">Re:Zero kara Hajimeru Isekai Seikatsu</a></li>
+	<li><a href = "https://myanimelist.net/anime/32542/Sakamoto_Desu_ga">Sakamoto Desu ga?</a></li>
 	<li><a href = "https://myanimelist.net/anime/205/Samurai_Champloo">Samurai Champloo</a></li>
 	<li><a href = "https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso">Shigatsu wa Kimi no Uso</a></li>
 	<li><a href = "https://myanimelist.net/anime/16498/Shingeki_no_Kyojin">Shingeki no Kyojin</a></li>
-	<li><a href = "https://myanimelist.net/anime/28171/Shokugeki_no_Souma">Food Wars!: Shokugeki no Soma</a></li>
+	<li><a href = "https://myanimelist.net/anime/28171/Shokugeki_no_Souma">Shokugeki no Souma</a></li>
 	<li><a href = "https://myanimelist.net/anime/9253/Steins_Gate">Steins; Gate</a></li>
 	<li><a href = "https://myanimelist.net/anime/11757/Sword_Art_Online">Sword Art Online</a></li>
 	<li><a href = "https://myanimelist.net/anime/4654/Toaru_Majutsu_no_Index">Toaru Majutsu no Index</a></li>
