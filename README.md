@@ -43,6 +43,7 @@
 	<li><a href = "https://myanimelist.net/anime/5231/Inazuma_Eleven">Inazuma Eleven</a></li>
 	<li><a href = "https://myanimelist.net/anime/14467/K">K</a></li>
 	<li><a href = "https://myanimelist.net/anime/34933/Kakegurui">Kakegurui</a></li>
+	<li><a href = "https://myanimelist.net/anime/37965/Kaze_ga_Tsuyoku_Fuiteiru">Kaze ga Tsuyoku Fuiteiru</a></li>
 	<li><a href = "https://myanimelist.net/anime/34825/Keppeki_Danshi_Aoyama-kun">Keppeki Danshi! Aoyama-kun</a></li>
 	<li><a href = "https://myanimelist.net/anime/32281/Kimi_no_Na_wa">Kimi no Na wa.</a></li>
 	<li><a href = "https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon">Kobayashi-san Chi no Maid Dragon</a></li>
