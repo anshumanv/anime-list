@@ -41,6 +41,7 @@
 	<li><a href = "https://myanimelist.net/anime/28825/Himouto_Umaru-chan">Himouto! Umaru-chan</a></li>
 	<li><a href = "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">Hunter x Hunter 2011</a></li>
 	<li><a href = "https://myanimelist.net/anime/5231/Inazuma_Eleven">Inazuma Eleven</a></li>
+	<li><a href = "https://myanimelist.net/anime/35639/Just_Because">Just Because!</a></li>
 	<li><a href = "https://myanimelist.net/anime/14467/K">K</a></li>
 	<li><a href = "https://myanimelist.net/anime/34933/Kakegurui">Kakegurui</a></li>
 	<li><a href = "https://myanimelist.net/anime/37965/Kaze_ga_Tsuyoku_Fuiteiru">Kaze ga Tsuyoku Fuiteiru</a></li>
