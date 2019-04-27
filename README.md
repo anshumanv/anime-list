@@ -59,6 +59,7 @@
 	<li><a href = "https://myanimelist.net/anime/20/Naruto">Naruto</a></li>
 	<li><a href = "https://myanimelist.net/anime/1735/Naruto__Shippuuden">Naruto Shippuden</a></li>
 	<li><a href = "https://myanimelist.net/anime/23755/Nanatsu_no_Taizai">Nanatsu no Taizai</a></li>
+	<li><a href = "https://myanimelist.net/anime/31953/New_Game">New Game!</a></li>
 	<li><a href = "https://myanimelist.net/anime/18897/Nisekoi">Nisekoi</a></li>
 	<li><a href = "https://myanimelist.net/anime/20507/Noragami">Noragami</a></li>
 	<li><a href = "https://myanimelist.net/anime/19815/No_Game_No_Life">No Game No Life</a></li>
