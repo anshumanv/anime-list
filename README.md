@@ -3,7 +3,7 @@
 <h4>Below follows the list of completed / ongoing animes</h4>
 <br>
 
-<ol>	
+<ol>
 	<li><a href = "https://myanimelist.net/anime/34881/Aho_Girl">Aho Girl</a></li>
 	<li><a href = "https://myanimelist.net/anime/22199/Akame_ga_Kill">Akame ga Kill!</a></li>
 	<li><a href = "https://myanimelist.net/anime/24531/Ane_Log__Moyako_Neesan_no_Tomaranai_Monologue">Ane Log</a></li>
@@ -23,6 +23,7 @@
 	<li><a href = "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade">Beyblade (Original TV Series)</a></li>
 	<li><a href = "https://myanimelist.net/anime/1689/Byousoku_5_Centimeter">Byausoku 5 Centimeter</a></li>
 	<li><a href = "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch">Code Geass</a></li>
+	<li><a href = "https://myanimelist.net/anime/28121/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka">Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka</a></li>
 	<li><a href = "https://myanimelist.net/anime/16592/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei_The_Animation">Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation</a></li>
 	<li><a href = "https://myanimelist.net/anime/1535/Death_Note">Death Note</a></li>
 	<li><a href = "https://myanimelist.net/anime/37520/Dororo">Dororo</a></li>
@@ -36,7 +37,7 @@
 	<li><a href = "https://myanimelist.net/anime/245/Great_Teacher_Onizuka">Great Teacher Onizuka</a></li>
 	<li><a href = "https://myanimelist.net/anime/20583/Haikyuu">Haikyuu!!</a></li>
 	<li><a href = "https://myanimelist.net/anime/34403/Hajimete_no_Gal">Hajimete no Gal</a></li>
-	<li><a href = "https://myanimelist.net/anime/15809/Hataraku_Maou-sama">Hataraku Maou-sama!</a></li>	
+	<li><a href = "https://myanimelist.net/anime/15809/Hataraku_Maou-sama">Hataraku Maou-sama!</a></li>
 	<li><a href = "https://myanimelist.net/anime/11617/High_School_DxD">High School DXD</a></li>
 	<li><a href = "https://myanimelist.net/anime/28825/Himouto_Umaru-chan">Himouto! Umaru-chan</a></li>
 	<li><a href = "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">Hunter x Hunter 2011</a></li>
@@ -81,6 +82,7 @@
 	<li><a href = "https://myanimelist.net/anime/28171/Shokugeki_no_Souma">Shokugeki no Souma</a></li>
 	<li><a href = "https://myanimelist.net/anime/9253/Steins_Gate">Steins; Gate</a></li>
 	<li><a href = "https://myanimelist.net/anime/11757/Sword_Art_Online">Sword Art Online</a></li>
+	<li><a href = "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari">Tate no Yuusha no Nariagari</a></li>
 	<li><a href = "https://myanimelist.net/anime/4654/Toaru_Majutsu_no_Index">Toaru Majutsu no Index</a></li>
 	<li><a href = "https://myanimelist.net/anime/22319/Tokyo_Ghoul">Tokyo Ghoul</a></li>
 	<li><a href = "https://myanimelist.net/anime/18139/Tonari_no_Seki-kun">Tonari no Seki-kun</a></li>
