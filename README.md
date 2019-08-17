@@ -1,6 +1,6 @@
 # anime-list
 
-<h4>Below follows the list of completed / ongoing animes</h4>
+<h4>List of anime which I have completed / ongoing - </h4>
 <br>
 
 <ol>
@@ -23,11 +23,13 @@
 	<li><a href = "https://myanimelist.net/anime/288/Bakuten_Shoot_Beyblade">Beyblade (Original TV Series)</a></li>
 	<li><a href = "https://myanimelist.net/anime/1689/Byousoku_5_Centimeter">Byausoku 5 Centimeter</a></li>
 	<li><a href = "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch">Code Geass</a></li>
-	<li><a href = "https://myanimelist.net/anime/28121/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka">Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka</a></li>
 	<li><a href = "https://myanimelist.net/anime/16592/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei_The_Animation">Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation</a></li>
 	<li><a href = "https://myanimelist.net/anime/1535/Death_Note">Death Note</a></li>
 	<li><a href = "https://myanimelist.net/anime/37520/Dororo">Dororo</a></li>
+	<li><a href = "https://myanimelist.net/anime/38691/Dr_Stone">Dr. Stone</a></li>
+	<li><a href = "https://myanimelist.net/anime/28121/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka">Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka</a></li>
 	<li><a href = "https://myanimelist.net/anime/813/Dragon_Ball_Z">Dragon Ball Z</a></li>
+	<li><a href = "https://myanimelist.net/anime/38671/Enen_no_Shouboutai">Enen no Shouboutai</a></li>
 	<li><a href = "https://myanimelist.net/anime/6702/Fairy_Tail">Fairy Tail</a></li>
 	<li><a href = "https://myanimelist.net/anime/22043/Fairy_Tail_2014">Fairy Tail(2014)</a></li>
 	<li><a href = "https://myanimelist.net/anime/5114/Fullmetal_Alchemist__Brotherhood">Full Metal Alchemist</a></li>
