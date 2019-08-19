@@ -51,6 +51,7 @@
 	<li><a href = "https://myanimelist.net/anime/34825/Keppeki_Danshi_Aoyama-kun">Keppeki Danshi! Aoyama-kun</a></li>
 	<li><a href = "https://myanimelist.net/anime/32281/Kimi_no_Na_wa">Kimi no Na wa.</a></li>
 	<li><a href = "https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon">Kobayashi-san Chi no Maid Dragon</a></li>
+	<li><a href = "https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo">Kono Subarashii Sekai ni Shukufuku wo!</a></li>
 	<li><a href = "https://myanimelist.net/anime/32182/Mob_Psycho_100">Mob Psycho 100</a></li>
 	<li><a href = "https://myanimelist.net/anime/11079/Kill_Me_Baby">Kill Me Baby</a></li>
 	<li><a href = "https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu">Kiseijuu: Sei no Kakuritsu</a></li>
