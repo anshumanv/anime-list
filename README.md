@@ -54,6 +54,7 @@
 	<li><a href = "https://myanimelist.net/anime/33206/Kobayashi-san_Chi_no_Maid_Dragon">Kobayashi-san Chi no Maid Dragon</a></li>
 	<li><a href = "https://myanimelist.net/anime/30831/Kono_Subarashii_Sekai_ni_Shukufuku_wo">Kono Subarashii Sekai ni Shukufuku wo!</a></li>
 	<li><a href = "https://myanimelist.net/anime/32182/Mob_Psycho_100">Mob Psycho 100</a></li>
+	<li><a href = "https://myanimelist.net/anime/35860/Karakai_Jouzu_no_Takagi-san">Karakai Jouzu no Takagi-san</a></li>
 	<li><a href = "https://myanimelist.net/anime/11079/Kill_Me_Baby">Kill Me Baby</a></li>
 	<li><a href = "https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu">Kiseijuu: Sei no Kakuritsu</a></li>
 	<li><a href = "https://myanimelist.net/anime/28851/Koe_no_Katachi">Koe No Katachi</a></li>
@@ -87,6 +88,7 @@
 	<li><a href = "https://myanimelist.net/anime/9253/Steins_Gate">Steins; Gate</a></li>
 	<li><a href = "https://myanimelist.net/anime/11757/Sword_Art_Online">Sword Art Online</a></li>
 	<li><a href = "https://myanimelist.net/anime/35790/Tate_no_Yuusha_no_Nariagari">Tate no Yuusha no Nariagari</a></li>
+	<li><a href = "https://myanimelist.net/anime/38826/Tenki_no_Ko">Tenki no Ko</a></li>
 	<li><a href = "https://myanimelist.net/anime/4654/Toaru_Majutsu_no_Index">Toaru Majutsu no Index</a></li>
 	<li><a href = "https://myanimelist.net/anime/22319/Tokyo_Ghoul">Tokyo Ghoul</a></li>
 	<li><a href = "https://myanimelist.net/anime/18139/Tonari_no_Seki-kun">Tonari no Seki-kun</a></li>
