@@ -43,6 +43,7 @@
 	<li><a href = "https://myanimelist.net/anime/15809/Hataraku_Maou-sama">Hataraku Maou-sama!</a></li>
 	<li><a href = "https://myanimelist.net/anime/11617/High_School_DxD">High School DXD</a></li>
 	<li><a href = "https://myanimelist.net/anime/28825/Himouto_Umaru-chan">Himouto! Umaru-chan</a></li>
+	<li><a href = "https://myanimelist.net/anime/578/Hotaru_no_Haka">Hotaru no Haka</a></li>
 	<li><a href = "https://myanimelist.net/anime/11061/Hunter_x_Hunter_2011">Hunter x Hunter 2011</a></li>
 	<li><a href = "https://myanimelist.net/anime/5231/Inazuma_Eleven">Inazuma Eleven</a></li>
 	<li><a href = "https://myanimelist.net/anime/35639/Just_Because">Just Because!</a></li>
