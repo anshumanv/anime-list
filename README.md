@@ -73,6 +73,7 @@
 	<li><a href = "https://myanimelist.net/anime/5040/One_Outs">One Outs</a></li>
 	<li><a href = "https://myanimelist.net/anime/21/One_Piece">One Piece</a></li>
 	<li><a href = "https://myanimelist.net/anime/30276/One_Punch_Man">One Punch Man</a></li>
+	<li><a href = "https://myanimelist.net/anime/12355/Ookami_Kodomo_no_Ame_to_Yuki">Ookami Kodomo no Ame to Yuki</a></li>
 	<li><a href = "https://myanimelist.net/anime/32729/Orange">Orange</a></li>
 	<li><a href = "https://myanimelist.net/anime/29803/Overlord">Overlord</a></li>
 	<li><a href = "https://myanimelist.net/anime/36023/Persona_5_the_Animation">Persona 5 the Animation</a></li>
