@@ -50,6 +50,7 @@
 	<li><a href = "https://myanimelist.net/anime/14467/K">K</a></li>
 	<li><a href = "https://myanimelist.net/anime/34933/Kakegurui">Kakegurui</a></li>
 	<li><a href = "https://myanimelist.net/anime/37965/Kaze_ga_Tsuyoku_Fuiteiru">Kaze ga Tsuyoku Fuiteiru</a></li>
+	<li><a href = "https://myanimelist.net/anime/36407/Kenja_no_Mago">Kenja no Mago</a></li>
 	<li><a href = "https://myanimelist.net/anime/34825/Keppeki_Danshi_Aoyama-kun">Keppeki Danshi! Aoyama-kun</a></li>
 	<li><a href = "https://myanimelist.net/anime/38000/Kimetsu_no_Yaiba">Kimetsu no Yaiba</a></li>
 	<li><a href = "https://myanimelist.net/anime/32281/Kimi_no_Na_wa">Kimi no Na wa.</a></li>
