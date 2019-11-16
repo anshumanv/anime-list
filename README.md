@@ -97,6 +97,7 @@
 	<li><a href = "https://myanimelist.net/anime/22319/Tokyo_Ghoul">Tokyo Ghoul</a></li>
 	<li><a href = "https://myanimelist.net/anime/18139/Tonari_no_Seki-kun">Tonari no Seki-kun</a></li>
 	<li><a href = "https://myanimelist.net/anime/34902/Tsurezure_Children">Tsurezure Children</a></li>
+	<li><a href = "https://myanimelist.net/anime/37521/Vinland_Saga">Vinland Saga</a></li>
 	<li><a href = "https://myanimelist.net/anime/33589/ViVid_Strike">ViVid Strike!</a></li>
 	<li><a href = "https://myanimelist.net/anime/35968/Wotaku_ni_Koi_wa_Muzukashii">Wotaku ni Koi wa Muzukashii</a></li>
 	<li><a href = "https://myanimelist.net/anime/14813/Yahari_Ore_no_Seishun_Love_Comedy_wa_Machigatteiru">Yahari Ore no Seishun Love Comedy wa Machigatteiru.</a></li>
