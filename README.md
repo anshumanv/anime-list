@@ -26,6 +26,7 @@
 	<li><a href = "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch">Code Geass</a></li>
 	<li><a href = "https://myanimelist.net/anime/16592/Danganronpa__Kibou_no_Gakuen_to_Zetsubou_no_Koukousei_The_Animation">Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation</a></li>
 	<li><a href = "https://myanimelist.net/anime/1535/Death_Note">Death Note</a></li>
+	<li><a href = "https://myanimelist.net/anime/35120/Devilman__Crybaby">Devilman Crybaby</a></li>
 	<li><a href = "https://myanimelist.net/anime/18689/Diamond_no_Ace">Diamond no Ace</a></li>
 	<li><a href = "https://myanimelist.net/anime/37520/Dororo">Dororo</a></li>
 	<li><a href = "https://myanimelist.net/anime/38691/Dr_Stone">Dr. Stone</a></li>
