@@ -51,6 +51,8 @@
 	<li><a href = "https://myanimelist.net/anime/35639/Just_Because">Just Because!</a></li>
 	<li><a href = "https://myanimelist.net/anime/14467/K">K</a></li>
 	<li><a href = "https://myanimelist.net/anime/38161/Kabukichou_Sherlock">Kabukichou Sherlock</a></li>
+	<li><a href = "https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen">Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen
+</a></li>
 	<li><a href = "https://myanimelist.net/anime/34933/Kakegurui">Kakegurui</a></li>
 	<li><a href = "https://myanimelist.net/anime/37965/Kaze_ga_Tsuyoku_Fuiteiru">Kaze ga Tsuyoku Fuiteiru</a></li>
 	<li><a href = "https://myanimelist.net/anime/36407/Kenja_no_Mago">Kenja no Mago</a></li>
