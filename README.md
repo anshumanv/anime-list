@@ -54,6 +54,7 @@
 	<li><a href = "https://myanimelist.net/anime/37999/Kaguya-sama_wa_Kokurasetai__Tensai-tachi_no_Renai_Zunousen">Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen
 </a></li>
 	<li><a href = "https://myanimelist.net/anime/34933/Kakegurui">Kakegurui</a></li>
+	<li><a href = "https://myanimelist.net/anime/40221/Kami_no_Tou">Kami no Tou</a></li>
 	<li><a href = "https://myanimelist.net/anime/37965/Kaze_ga_Tsuyoku_Fuiteiru">Kaze ga Tsuyoku Fuiteiru</a></li>
 	<li><a href = "https://myanimelist.net/anime/36407/Kenja_no_Mago">Kenja no Mago</a></li>
 	<li><a href = "https://myanimelist.net/anime/34825/Keppeki_Danshi_Aoyama-kun">Keppeki Danshi! Aoyama-kun</a></li>
