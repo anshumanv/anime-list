@@ -89,6 +89,7 @@
 	<li><a href = "https://myanimelist.net/anime/22135/Ping_Pong_the_Animation">Ping Pong the Animation</a></li>
 	<li><a href = "https://myanimelist.net/anime/527/Pokemon">Pokemon</a></li>
 	<li><a href = "https://myanimelist.net/anime/13601/Psycho-Pass">Psycho Pass</a></li>
+	<li><a href = "https://myanimelist.net/anime/6114/Rainbow__Nisha_Rokubou_no_Shichinin">Rainbow: Nisha Rokubou no Shichinin</a></li>
 	<li><a href = "https://myanimelist.net/anime/30015/ReLIFE">ReLIFE</a></li>
 	<li><a href = "https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu">Re:Zero kara Hajimeru Isekai Seikatsu</a></li>
 	<li><a href = "https://myanimelist.net/anime/32542/Sakamoto_Desu_ga">Sakamoto Desu ga?</a></li>
