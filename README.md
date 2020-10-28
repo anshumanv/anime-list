@@ -1,4 +1,6 @@
-# anime-list
+# anime-list [deprecated]
+
+I'm maintaining my list here - https://anime.anshumanv.dev/
 
 <h4>List of anime which I have completed / ongoing - </h4>
 <br>
